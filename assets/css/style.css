@@ -87,7 +87,7 @@ section {
     color: #024e76;
     width: 500px;
     padding: 20px;
-    border: solid 3px #024e76;
+    border: 3px solid #024e76;
     position: absolute;
     bottom: 120px;
     right: 140px;
@@ -130,7 +130,7 @@ section {
      text-align: center;
  }
 
- .intro p {
+  .intro p {
      line-height: 1.7;
      color: #39a6b2;
      width: 80%;
