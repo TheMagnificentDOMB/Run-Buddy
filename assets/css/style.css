@@ -178,6 +178,7 @@ section {
 
  .primary-border {
      border-color: #fce138;
+     overflow: auto;
  }
 
  .secondary-border {
@@ -247,7 +248,7 @@ width: 65%;
     height: 400px;
 }
 
-.contact-info div{
+.contact-info {
     width: 410px;
     display: inline-block;
     vertical-align: top;
@@ -266,6 +267,7 @@ width: 65%;
     line-height: 1.5;
     font-size: 20px;
     font-style: normal;
+ /*   color: white; */
 }
 
 .contact-info a {
