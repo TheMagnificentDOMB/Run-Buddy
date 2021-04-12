@@ -81,6 +81,7 @@ section {
 }
 /* Hero Style End */
 
+
 /* Hero-Form Style Start */
 .hero-form {
     background-color: #fce138;
@@ -267,7 +268,6 @@ width: 65%;
     line-height: 1.5;
     font-size: 20px;
     font-style: normal;
- /*   color: white; */
 }
 
 .contact-info a {
